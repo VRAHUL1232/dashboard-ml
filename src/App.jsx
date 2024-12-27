@@ -332,10 +332,10 @@ const LifeExpectancyChart = () => {
 };
 
 
-echo "# dashboard-ml" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/VRAHUL1232/dashboard-ml.git
-git push -u origin main
+// echo "# dashboard-ml" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/VRAHUL1232/dashboard-ml.git
+// git push -u origin main
